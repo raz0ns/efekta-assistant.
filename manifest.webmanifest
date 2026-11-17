@@ -1,0 +1,9 @@
+{
+  "name": "Efekta Assistant — Apoio aos Estudos",
+  "short_name": "Efekta Assistant",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#203657",
+  "description": "Ferramenta gratuita para apoiar o estudo de inglês."
+}
